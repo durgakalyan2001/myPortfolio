@@ -3,6 +3,7 @@ import './index.css'
 
 const Header = () =>(
     <nav>
+      <img src='https://res.cloudinary.com/dtsqyytfy/image/upload/v1684565640/website-logo1_vvzuvh.png' alt='website-logo' />
       <ul className="nav-menu">
         <li>
             <Link className="nav-link" to="/">Home</Link>
